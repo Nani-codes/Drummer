@@ -1,47 +1,30 @@
-import './App.css';
-import { useEffect, useState } from "react";
-import alphabets from './alphabets.js';
+import logo from "./logo.jpeg";
+import "./App.css";
+import Card from "./templates/Card";
+import Unis from "./data/Universities.json";
+// let Unis = require('./data/Universities.json')
+
 function App() {
-  const [activekey, setActivekey] = useState('');
-  useEffect(() => {
-    
-    document.addEventListener('keydown',(event)=>{
-      console.log(event.key)
-      sound(event.key.toUpperCase())
-    })
-  }, [])
-  
-  function sound(alphabet) {
-    const audio = document.getElementById(alphabet);
-    console.log(audio);
-    audio.play();
-    setActivekey(alphabet);
-  }
   return (
     <div className="App">
-      <div id="drum-machine">
-        <div id="display">
-          {activekey}
-        </div>
-        <div className="drum-pads">
-          {alphabets.map((alphabets)=>( 
-          <div
-           onClick={()=>{
-            sound(alphabets.text)
-           }} 
-           className="drum-pad" 
-           id={alphabets.src}
-          >
-            {alphabets.text}
-            <audio 
-              className="clip" 
-              id={alphabets.text} 
-              src={alphabets.src}
-            ></audio>
-          </div>))}
-        </div>
-        
-      </div>
+      {Unis.map((e)=>(
+        <Card 
+          imageURL = {e.Logo} 
+          title = {e.University_Name} 
+          degree = {e.Course_Sub_Type}
+          subject = {e.Course_Name}
+          Course_Link = {e.Course_Link}
+          Application_Link = {e.Application_Link}
+          City = {e.City}
+          State = {e.State}
+          Course_Ranking = {e.Course_Ranking}
+          Duration = {e.Duration}
+          German_Ranking = {e.German_Ranking}
+          Teaching_Language = {e.Teaching_Language}
+          Tuition_Fee = {e.Tuition_Fee}
+          Type_of_University = {e.Type_of_University}
+        />
+      ))}
     </div>
   );
 }

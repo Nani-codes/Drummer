@@ -1,0 +1,1548 @@
+[{
+  "_id": {
+    "$oid": "65b0f6da489f05c61ef4c8bd"
+  },
+  "S/no": 2,
+  "Application_Deadline_Summer": {
+    "$date": "2022-01-14T18:30:00.000Z"
+  },
+  "Application_Deadline_Winter": {
+    "$date": "2023-07-14T18:30:00.000Z"
+  },
+  "Application_Link": "https://www.uni-assist.de/",
+  "City": "Chemnitz",
+  "Course_Link": "https://www.tu-chemnitz.de/mathematik/mscphd/",
+  "Course_Name": "Advanced and Computational Mathematics   International Master's and PhD Programme",
+  "Course_Ranking": "47 (For Mathematics)",
+  "Course_Sub_Type": "Master",
+  "Course_Type": "Masters",
+  "Duration": "4 Semesters",
+  "German_Ranking": 55,
+  "Logo": "https://i0.wp.com/howtoabroad.com/wp-content/uploads/2021/07/tulogo.jpg",
+  "Semester_Start": "Winter, Summer",
+  "State": "Saxony",
+  "Teaching_Language": "English",
+  "Tuition_Fee": "None",
+  "Type_of_University": "Public University",
+  "Uni-Assist": "Yes",
+  "University_Name": "Chemnitz University of Technology",
+  "Updated": "2022-06-11 00:00:00.000",
+  "World_Ranking": 779,
+  "_Daad SIte": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4770/"
+},
+{
+  "_id": {
+    "$oid": "65b0f6da489f05c61ef4c8be"
+  },
+  "S/no": 3,
+  "Application_Deadline_Summer": {
+    "$date": "2023-11-29T18:30:00.000Z"
+  },
+  "Application_Deadline_Winter": {
+    "$date": "2023-05-30T18:30:00.000Z"
+  },
+  "Application_Link": "https://www.uni-assist.de/",
+  "City": "Hanover",
+  "Course_Link": "https://www.uni-hannover.de/en/studium/studienangebot/info/studiengang/detail/advanced-anglophone-studies/",
+  "Course_Name": "Advanced Anglophone Studies",
+  "Course_Sub_Type": "Master of Arts (MA)",
+  "Course_Type": "Masters",
+  "Duration": "4 Semesters",
+  "German_Ranking": 35,
+  "Logo": "https://i0.wp.com/howtoabroad.com/wp-content/uploads/2021/04/luh.png",
+  "Semester_Start": "Winter, Summer",
+  "State": "Lower Saxony",
+  "Teaching_Language": "English",
+  "Tuition_Fee": "None",
+  "Type_of_University": "Public University",
+  "Uni-Assist": "Yes",
+  "University_Name": "Leibniz University Hannover",
+  "Updated": "2023-04-05 00:00:00.000",
+  "World_Ranking": 399,
+  "_Daad SIte": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4869/"
+},
+{
+  "_id": {
+    "$oid": "65b0f6da489f05c61ef4c8bf"
+  },
+  "S/no": 4,
+  "Admission_IELTS_TOFEL": "YES",
+  "Application_Deadline_Summer": {
+    "$date": "2022-10-14T18:30:00.000Z"
+  },
+  "Application_Link": "https://www.uni-assist.de/",
+  "City": "Frankfurt",
+  "Course_Link": "https://www.frankfurt-university.de/en/studies/master-programs/advanced-architecture-msc/for-prospective-students/",
+  "Course_Name": "Advanced Architecture   From Urban Design to Building Construction",
+  "Course_Ranking": "81 (For Art and Design)",
+  "Course_Sub_Type": "Master",
+  "Course_Type": "Masters",
+  "Duration": "4 Semesters",
+  "German_Ranking": 100,
+  "Language_Requirement": "IELTS 6/ TOEFL(IBT 79/PBT /CBT)/OTHERS",
+  "Logo": "https://i0.wp.com/howtoabroad.com/wp-content/uploads/2021/11/30715369_1850746711615543_7565865619556401152_n.jpg",
+  "Required_German_Grade (GPA)": "2.3",
+  "Semester_Start": "Summer",
+  "State": "Hesse",
+  "Teaching_Language": "English",
+  "Tuition_Fee": "None",
+  "Type_of_University": "Public University",
+  "Uni-Assist": "Yes",
+  "University_Name": "Frankfurt University of Applied Sciences",
+  "Updated": "2022-06-11 00:00:00.000",
+  "World_Ranking": 2709,
+  "_Daad SIte": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/7065/"
+},
+{
+  "_id": {
+    "$oid": "65b0f6da489f05c61ef4c8c0"
+  },
+  "S/no": 5,
+  "Admission_IELTS_TOFEL": "YES",
+  "Application_Deadline_Summer": {
+    "$date": "2022-01-14T18:30:00.000Z"
+  },
+  "Application_Deadline_Winter": {
+    "$date": "2023-07-14T18:30:00.000Z"
+  },
+  "Application_Link": "https://www.uni-assist.de/",
+  "City": "Chemnitz",
+  "Course_Link": "https://www.tu-chemnitz.de/chemie/ma_afm.html.en",
+  "Course_Name": "Advanced Functional Materials",
+  "Course_Sub_Type": "Master",
+  "Course_Type": "Masters",
+  "Duration": "4 Semesters",
+  "German_Ranking": 55,
+  "Language_Requirement": "IELTS 5.5/TOEFL(iBT 72)",
+  "Logo": "https://i0.wp.com/howtoabroad.com/wp-content/uploads/2021/07/tulogo.jpg",
+  "Semester_Start": "Winter, Summer",
+  "State": "Saxony",
+  "Teaching_Language": "English",
+  "Tuition_Fee": "None",
+  "Type_of_University": "Public University",
+  "Uni-Assist": "Yes",
+  "University_Name": "Chemnitz University of Technology",
+  "Updated": "2022-06-11 00:00:00.000",
+  "World_Ranking": 779,
+  "_Daad SIte": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4695/"
+},
+{
+  "_id": {
+    "$oid": "65b0f6da489f05c61ef4c8c1"
+  },
+  "S/no": 6,
+  "Application_Deadline_Winter": {
+    "$date": "2022-04-14T18:30:00.000Z"
+  },
+  "Application_Link": "https://www.uni-assist.de/",
+  "City": "Freiberg",
+  "Course_Link": "https://tu-freiberg.de/en/studies/master-advanced-materials-analysis",
+  "Course_Name": "Advanced Materials Analysis",
+  "Course_Sub_Type": "Master",
+  "Course_Type": "Masters",
+  "Duration": "4 Semesters",
+  "German_Ranking": 62,
+  "Logo": "https://i0.wp.com/howtoabroad.com/wp-content/uploads/2021/04/logo_bergakademie-freiberg-technische-universitaet.jpg",
+  "Semester_Start": "Winter",
+  "State": "Saxony",
+  "Teaching_Language": "English",
+  "Tuition_Fee": "None",
+  "Type_of_University": "Public University",
+  "Uni-Assist": "Yes",
+  "University_Name": "Freiberg University of Mining and Technology (TU Bergakademie Freiberg)",
+  "Updated": "2022-06-11 00:00:00.000",
+  "World_Ranking": 1147,
+  "_Daad SIte": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/5403/"
+},
+{
+  "_id": {
+    "$oid": "65b0f6da489f05c61ef4c8c2"
+  },
+  "S/no": 7,
+  "Application_Deadline_Winter": {
+    "$date": "2023-05-30T18:30:00.000Z"
+  },
+  "Application_Link": "https://www.uni-assist.de/",
+  "City": "Leipzig",
+  "Course_Link": "https://www.uni-leipzig.de/en/studying/prospective-students/courses-of-study/degree-programme/course/show/advanced-spectroscopy-in-chemistry-msc",
+  "Course_Name": "Advanced Spectroscopy in Chemistry",
+  "Course_Sub_Type": "Master of Science (M.Sc)",
+  "Course_Type": "Masters",
+  "Duration": "4 Semesters",
+  "German_Ranking": 15,
+  "Language_Requirement": "English-B2",
+  "Logo": "https://i0.wp.com/howtoabroad.com/wp-content/uploads/2021/10/Leipzig-University-1.png",
+  "Semester_Start": "Winter",
+  "State": "Saxony",
+  "Teaching_Language": "English",
+  "Type_of_University": "Public University",
+  "Uni-Assist": "Yes",
+  "University_Name": "University of Leipzig",
+  "Updated": "2022-07-05 00:00:00.000",
+  "World_Ranking": 198,
+  "_Daad SIte": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/7056/"
+},
+{
+  "_id": {
+    "$oid": "65b0f6da489f05c61ef4c8c3"
+  },
+  "S/no": 8,
+  "Admission_IELTS_TOFEL": "NO",
+  "Application_Deadline_Winter": {
+    "$date": "2023-05-30T18:30:00.000Z"
+  },
+  "Application_Link": "https://www.uni-assist.de/",
+  "City": "Weihenstephan(Freising)",
+  "Course_Link": "https://www.tum.de/studium/studienangebot/detail/agricultural-biosciences-master-of-science-msc",
+  "Course_Name": "Agricultural Biosciences",
+  "Course_Ranking": "4 (For Agricultural Science)",
+  "Course_Sub_Type": "Master of Science (M.Sc)",
+  "Course_Type": "Masters",
+  "Duration": "4 Semesters",
+  "German_Ranking": 3,
+  "Language_Requirement": "IELTS-6.5/TOEFL-(iBT-88 points)",
+  "Logo": "https://i0.wp.com/howtoabroad.com/wp-content/uploads/2021/03/TUM.png",
+  "Semester_Start": "Winter",
+  "State": "Bavaria",
+  "Teaching_Language": "English",
+  "Tuition_Fee": "None",
+  "Type_of_University": "Public University",
+  "Uni-Assist": "Yes",
+  "University_Name": "TU Munich",
+  "Updated": "2023-03-30 00:00:00.000",
+  "World_Ranking": 86,
+  "_Daad SIte": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/6527/"
+},
+{
+  "_id": {
+    "$oid": "65b0f6da489f05c61ef4c8c8"
+  },
+  "S/no": 13,
+  "Application_Deadline_Winter": {
+    "$date": "2022-06-29T18:30:00.000Z"
+  },
+  "Application_Link": "https://www.uni-assist.de/",
+  "City": "Coburg",
+  "Course_Link": "https://www.hs-coburg.de/studium/master/technik-informatik/analytical-instruments-measurement-and-sensor-technology.html",
+  "Course_Name": "Analytical Instruments, Measurement and Sensor Technology (AIMS)",
+  "Course_Sub_Type": "Master",
+  "Course_Type": "Masters",
+  "Duration": "4 Semesters",
+  "German_Ranking": 155,
+  "Logo": "https://i0.wp.com/howtoabroad.com/wp-content/uploads/2021/08/1-254.jpg",
+  "Semester_Start": "Winter",
+  "State": "Bavaria",
+  "Teaching_Language": "English",
+  "Tuition_Fee": "3500",
+  "Tuition_Fee_Per": "Semester",
+  "Type_of_University": "Public University",
+  "Uni-Assist": "Yes",
+  "University_Name": "Coburg University of Applied Sciences",
+  "Updated": "2022-06-11 00:00:00.000",
+  "World_Ranking": 4412,
+  "_Daad SIte": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3949/"
+},
+{
+  "_id": {
+    "$oid": "65b0f6da489f05c61ef4c8c9"
+  },
+  "S/no": 14,
+  "Admission_IELTS_TOFEL": "YES",
+  "Application_Deadline_Summer": {
+    "$date": "2022-02-14T18:30:00.000Z"
+  },
+  "Application_Deadline_Winter": {
+    "$date": "2023-08-14T18:30:00.000Z"
+  },
+  "Application_Link": "https://www.uni-assist.de/",
+  "City": "Potsdam",
+  "Course_Link": "https://www.uni-potsdam.de/en/studium/what-to-study/master/masters-courses-from-a-to-z/anglophone-modernities-in-literature-and-culture-master",
+  "Course_Name": "Anglophone Modernities in Literature and Culture",
+  "Course_Sub_Type": "Master",
+  "Course_Type": "Masters",
+  "Duration": "4 Semesters",
+  "German_Ranking": 41,
+  "Language_Requirement": "IELTS 6.5/TOEFL(iBT 95)/Others",
+  "Logo": "https://i0.wp.com/howtoabroad.com/wp-content/uploads/2021/08/University-of-Potsdam.jpg",
+  "Semester_Start": "Winter, Summer",
+  "State": "Brandenburg",
+  "Teaching_Language": "English",
+  "Tuition_Fee": "None",
+  "Type_of_University": "Public University",
+  "Uni-Assist": "Yes",
+  "University_Name": "University of Potsdam",
+  "Updated": "2022-06-11 00:00:00.000",
+  "World_Ranking": 481,
+  "_Daad SIte": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4325/"
+},
+{
+  "_id": {
+    "$oid": "65b0f6da489f05c61ef4c8cd"
+  },
+  "S/no": 18,
+  "Admission_IELTS_TOFEL": "YES",
+  "Application_Deadline_Summer": {
+    "$date": "2022-01-14T18:30:00.000Z"
+  },
+  "Application_Deadline_Winter": {
+    "$date": "2023-07-14T18:30:00.000Z"
+  },
+  "Application_Link": "https://www.uni-assist.de/",
+  "City": "Wuppertal",
+  "Course_Link": "https://www.wiwi.uni-wuppertal.de/en/study/master-programmes/applied-economics.html",
+  "Course_Name": "Applied Economics",
+  "Course_Ranking": "61 (For Economics)",
+  "Course_Sub_Type": "Master of Science (M.Sc)",
+  "Course_Type": "Masters",
+  "Duration": "4 Semesters",
+  "German_Ranking": 57,
+  "Language_Requirement": "IELTS/TOEFT/Others",
+  "Logo": "https://i0.wp.com/howtoabroad.com/wp-content/uploads/2021/04/University-of-Wuppertal.png",
+  "Required_German_Grade (GPA)": "2.5",
+  "Semester_Start": "Winter, Summer",
+  "State": "North Rhine-Westphalia",
+  "Teaching_Language": "English",
+  "Tuition_Fee": "None",
+  "Type_of_University": "Public University",
+  "Uni-Assist": "Yes",
+  "University_Name": "University of Wuppertal",
+  "Updated": "2022-06-11 00:00:00.000",
+  "World_Ranking": 814,
+  "_Daad SIte": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3956/"
+},
+{
+  "_id": {
+    "$oid": "65b0f6da489f05c61ef4c8ce"
+  },
+  "S/no": 19,
+  "Application_Deadline_Summer": {
+    "$date": "2023-11-29T18:30:00.000Z"
+  },
+  "Application_Deadline_Winter": {
+    "$date": "2023-05-29T18:30:00.000Z"
+  },
+  "Application_Link": "https://www.uni-assist.de/",
+  "City": "Emden",
+  "Course_Link": "https://www.hs-emden-leer.de/en/current-students/faculties/technology/study-programs/applied-life-sciences-master",
+  "Course_Name": "Applied Life Sciences",
+  "Course_Sub_Type": "Master of Engineering (M.Eng)",
+  "Course_Type": "Masters",
+  "Duration": "3 Semesters",
+  "German_Ranking": 160,
+  "Logo": "https://i0.wp.com/howtoabroad.com/wp-content/uploads/2021/08/Emden-logo.jpg",
+  "Semester_Start": "Winter, Summer",
+  "State": "Lower Saxony",
+  "Teaching_Language": "English",
+  "Tuition_Fee": "None",
+  "Type_of_University": "Public University",
+  "Uni-Assist": "Yes",
+  "University_Name": "University of Applied Sciences Emden/Leer",
+  "Updated": "2023-04-06 00:00:00.000",
+  "World_Ranking": 4674,
+  "_Daad SIte": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/6194/"
+},
+{
+  "_id": {
+    "$oid": "65b0f6da489f05c61ef4c8d0"
+  },
+  "S/no": 21,
+  "Application_Deadline_Summer": {
+    "$date": "2022-12-14T18:30:00.000Z"
+  },
+  "Application_Deadline_Winter": {
+    "$date": "2023-06-14T18:30:00.000Z"
+  },
+  "Application_Link": "https://www.uni-assist.de/",
+  "City": "Koblenz",
+  "Course_Link": "https://www.uni-koblenz-landau.de/en/studies/before-studying/our-degree-programs/masters-degree-programs/applied-natural-sciences",
+  "Course_Name": "Applied Natural Sciences",
+  "Course_Sub_Type": "Master of Science (M.Sc)",
+  "Course_Type": "Masters",
+  "Duration": "3 Semesters",
+  "German_Ranking": 79,
+  "Logo": "https://i0.wp.com/howtoabroad.com/wp-content/uploads/2021/09/university-of-koblenz-landau.png",
+  "Required_German_Grade (GPA)": "2.5",
+  "Semester_Start": "Winter, Summer",
+  "State": "Rhineland-Palatinate",
+  "Teaching_Language": "English",
+  "Tuition_Fee": "None",
+  "Type_of_University": "Public University",
+  "Uni-Assist": "Yes",
+  "University_Name": "University of Koblenz-Landau",
+  "Updated": "2022-06-11 00:00:00.000",
+  "World_Ranking": 1565,
+  "_Daad SIte": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4688/"
+},
+{
+  "_id": {
+    "$oid": "65b0f6da489f05c61ef4c8d1"
+  },
+  "S/no": 22,
+  "Admission_IELTS_TOFEL": "YES",
+  "Application_Deadline_Summer": {
+    "$date": "2023-11-29T18:30:00.000Z"
+  },
+  "Application_Deadline_Winter": {
+    "$date": "2023-05-30T18:30:00.000Z"
+  },
+  "Application_Link": "https://www.uni-assist.de/",
+  "City": "Hof",
+  "Course_Link": "https://www.hof-university.com/studying-in-hof/full-time-programs/master/applied-research-in-computer-science-msc.html",
+  "Course_Name": "Applied Research in Computer Science",
+  "Course_Sub_Type": "Master of Science (M.Sc)",
+  "Course_Type": "Masters",
+  "Duration": "3 Semesters",
+  "German_Ranking": 191,
+  "Language_Requirement": "TOEFL-90, IELTS-6.5",
+  "Logo": "https://i0.wp.com/howtoabroad.com/wp-content/uploads/2021/12/201969012_4087460298003469_705550935058513875_n.jpg",
+  "Semester_Start": "Winter, Summer",
+  "State": "Bavaria",
+  "Teaching_Language": "English",
+  "Tuition_Fee": "None",
+  "Type_of_University": "Public University",
+  "Uni-Assist": "Yes",
+  "University_Name": "Hof University of Applied Sciences",
+  "Updated": "2023-04-06 00:00:00.000",
+  "World_Ranking": 5680,
+  "_Daad SIte": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/6236/"
+},
+{
+  "_id": {
+    "$oid": "65b0f6da489f05c61ef4c8d2"
+  },
+  "S/no": 23,
+  "Application_Deadline_Summer": {
+    "$date": "2022-01-14T18:30:00.000Z"
+  },
+  "Application_Deadline_Winter": {
+    "$date": "2023-07-14T18:30:00.000Z"
+  },
+  "Application_Link": "https://www.uni-assist.de/",
+  "City": "Dessau-Ro lau",
+  "Course_Link": "https://www.hs-anhalt.de/nc/en/study/orientation/degree-programs/detail/architectural-and-cultural-heritage-master-of-arts.html",
+  "Course_Name": "Architectural and Cultural Heritage",
+  "Course_Sub_Type": "Master",
+  "Course_Type": "Masters",
+  "Duration": "4 Semesters",
+  "German_Ranking": 218,
+  "Logo": "https://i0.wp.com/howtoabroad.com/wp-content/uploads/2021/07/Anhalt-University-of-Applied-Sciences-scaled.jpg",
+  "Semester_Start": "Winter, Summer",
+  "State": "Saxony-Anhalt",
+  "Teaching_Language": "English",
+  "Tuition_Fee": "750",
+  "Tuition_Fee_Per": "Semester",
+  "Type_of_University": "Public University",
+  "Uni-Assist": "Yes",
+  "University_Name": "Anhalt University of Applied Sciences",
+  "Updated": "2022-06-11 00:00:00.000",
+  "World_Ranking": 7291,
+  "_Daad SIte": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4346/"
+},
+{
+  "_id": {
+    "$oid": "65b0f6da489f05c61ef4c8d3"
+  },
+  "S/no": 24,
+  "Application_Deadline_Winter": {
+    "$date": "2022-05-31T18:30:00.000Z"
+  },
+  "Application_Link": "https://www.uni-assist.de/",
+  "City": "L neburg",
+  "Course_Link": "https://www.leuphana.de/en/professional-school/masters-studies/arts-and-cultural-management.html",
+  "Course_Name": "Arts and Cultural Management",
+  "Course_Sub_Type": "Master of Arts (MA)",
+  "Course_Type": "Masters",
+  "Duration": "4 Semesters",
+  "German_Ranking": 69,
+  "Logo": "https://i0.wp.com/howtoabroad.com/wp-content/uploads/2021/04/Leuphana-University-Luneburg.jpg",
+  "Semester_Start": "Winter",
+  "State": "Lower Saxony",
+  "Teaching_Language": "English",
+  "Tuition_Fee": "2225",
+  "Tuition_Fee_Per": "Semester",
+  "Type_of_University": "Public University",
+  "Uni-Assist": "Yes",
+  "University_Name": "Leuphana University Luneburg",
+  "Updated": "2022-06-11 00:00:00.000",
+  "World_Ranking": 1313,
+  "_Daad SIte": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/5242/"
+},
+{
+  "_id": {
+    "$oid": "65b0f6da489f05c61ef4c8d4"
+  },
+  "S/no": 25,
+  "Application_Deadline_Summer": {
+    "$date": "2022-02-14T18:30:00.000Z"
+  },
+  "Application_Deadline_Winter": {
+    "$date": "2023-08-14T18:30:00.000Z"
+  },
+  "Application_Link": "https://www.uni-assist.de/",
+  "City": "Potsdam",
+  "Course_Link": "https://www.uni-potsdam.de/en/mnfakul/study-and-teaching/master/astrophysics",
+  "Course_Name": "Astrophysics",
+  "Course_Ranking": "10 (For Astrophysics)",
+  "Course_Sub_Type": "Master",
+  "Course_Type": "Masters",
+  "Duration": "4 Semesters",
+  "German_Ranking": 41,
+  "Logo": "https://i0.wp.com/howtoabroad.com/wp-content/uploads/2021/08/University-of-Potsdam.jpg",
+  "Semester_Start": "Winter, Summer",
+  "State": "Brandenburg",
+  "Teaching_Language": "English",
+  "Tuition_Fee": "None",
+  "Type_of_University": "Public University",
+  "Uni-Assist": "Yes",
+  "University_Name": "University of Potsdam",
+  "Updated": "2022-06-11 00:00:00.000",
+  "World_Ranking": 481,
+  "_Daad SIte": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4693/"
+},
+{
+  "_id": {
+    "$oid": "65b0f6da489f05c61ef4c8d5"
+  },
+  "S/no": 26,
+  "Application_Deadline_Winter": {
+    "$date": "2022-04-29T18:30:00.000Z"
+  },
+  "Application_Link": "https://www.uni-assist.de/",
+  "City": "Cologne",
+  "Course_Link": "https://www.th-koeln.de/en/academics/automation--it-master_6815.php",
+  "Course_Name": "Automation & IT (Master of Engineering)",
+  "Course_Ranking": "52 ( For Automation and Control)",
+  "Course_Sub_Type": "Master of Engineering (M.Eng)",
+  "Course_Type": "Masters",
+  "Duration": "4 Semesters",
+  "German_Ranking": 88,
+  "Logo": "https://i0.wp.com/howtoabroad.com/wp-content/uploads/2021/04/TH-Koln.jpg",
+  "Semester_Start": "Winter",
+  "State": "North Rhine-Westphalia",
+  "Teaching_Language": "English",
+  "Tuition_Fee": "None",
+  "Type_of_University": "Public University",
+  "Uni-Assist": "Yes",
+  "University_Name": "TH Cologne   University of Applied Sciences",
+  "Updated": "2023-03-10 00:00:00.000",
+  "World_Ranking": 2142,
+  "_Daad SIte": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3961/"
+},
+{
+  "_id": {
+    "$oid": "65b0f6da489f05c61ef4c8d7"
+  },
+  "S/no": 28,
+  "Application_Deadline_Summer": {
+    "$date": "2022-01-14T18:30:00.000Z"
+  },
+  "Application_Deadline_Winter": {
+    "$date": "2023-07-14T18:30:00.000Z"
+  },
+  "Application_Link": "https://www.uni-assist.de/",
+  "City": "Chemnitz",
+  "Course_Link": "https://www.tu-chemnitz.de/informatik/studium/master/ase/index.php.en",
+  "Course_Name": "Automotive Software Engineering",
+  "Course_Ranking": "59 (For Software Engineering)",
+  "Course_Sub_Type": "Master",
+  "Course_Type": "Masters",
+  "Duration": "4 Semesters",
+  "German_Ranking": 55,
+  "Language_Requirement": "Not required",
+  "Logo": "https://i0.wp.com/howtoabroad.com/wp-content/uploads/2021/07/tulogo.jpg",
+  "Semester_Start": "Winter, Summer",
+  "State": "Saxony",
+  "Teaching_Language": "English",
+  "Tuition_Fee": "None",
+  "Type_of_University": "Public University",
+  "Uni-Assist": "Yes",
+  "University_Name": "Chemnitz University of Technology",
+  "Updated": "2022-06-11 00:00:00.000",
+  "World_Ranking": 779,
+  "_Daad SIte": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4122/"
+},
+{
+  "_id": {
+    "$oid": "65b0f6da489f05c61ef4c8da"
+  },
+  "S/no": 31,
+  "Application_Deadline_Winter": {
+    "$date": "2022-07-14T18:30:00.000Z"
+  },
+  "Application_Link": "https://www.uni-assist.de/",
+  "City": "Bielefeld",
+  "Course_Link": "https://ekvv.uni-bielefeld.de/kvv_publ/publ/vvz?id=33087490",
+  "Course_Name": "Behaviour: From Neural Mechanisms to Evolution, MSc",
+  "Course_Ranking": "26 (For Evolutionary Biology)",
+  "Course_Sub_Type": "Master of Science (M.Sc)",
+  "Course_Type": "Masters",
+  "Duration": "4 Semesters",
+  "German_Ranking": 39,
+  "Logo": "https://i0.wp.com/howtoabroad.com/wp-content/uploads/2021/04/BBielefeld.png",
+  "Semester_Start": "Winter",
+  "State": "North Rhine-Westphalia",
+  "Teaching_Language": "English",
+  "Tuition_Fee": "None",
+  "Type_of_University": "Public University",
+  "Uni-Assist": "Yes",
+  "University_Name": "Bielefeld University",
+  "Updated": "2022-06-11 00:00:00.000",
+  "World_Ranking": 436,
+  "_Daad SIte": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3958/"
+},
+{
+  "_id": {
+    "$oid": "65b0f6da489f05c61ef4c8db"
+  },
+  "S/no": 32,
+  "Application_Deadline_Winter": {
+    "$date": "2001-11-30T18:30:00.000Z"
+  },
+  "Application_Link": "https://www.uni-assist.de/",
+  "City": "Berlin",
+  "Course_Link": "https://www.berlin-professional-school.de/en/mba-mpa/private-management/berlin-full-time-mba/",
+  "Course_Name": "Berlin MBA (full-time)",
+  "Course_Sub_Type": "Master",
+  "Course_Type": "Masters",
+  "Duration": "2 Semesters",
+  "German_Ranking": 93,
+  "Logo": "https://i0.wp.com/howtoabroad.com/wp-content/uploads/2022/03/Hochschule-fur-Wirtschaft-und-Recht-Berlin.png",
+  "Semester_Start": "Winter",
+  "State": "Brandenburg",
+  "Teaching_Language": "English",
+  "Tuition_Fee": "9900",
+  "Tuition_Fee_Per": "Semester",
+  "Type_of_University": "Public University",
+  "Uni-Assist": "Yes",
+  "University_Name": "Berlin School of Economics and Law",
+  "Updated": "2022-06-11 00:00:00.000",
+  "World_Ranking": 2450,
+  "_Daad SIte": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3625/"
+},
+{
+  "_id": {
+    "$oid": "65b0f6da489f05c61ef4c8dc"
+  },
+  "S/no": 33,
+  "Application_Deadline_Winter": {
+    "$date": "2001-11-30T18:30:00.000Z"
+  },
+  "Application_Link": "https://www.uni-assist.de/",
+  "City": "Berlin",
+  "Course_Link": "https://www.berlin-professional-school.de/en/mba-mpa/private-management/berlin-part-time-mba/",
+  "Course_Name": "Berlin MBA (part-time)",
+  "Course_Sub_Type": "Master",
+  "Course_Type": "Masters",
+  "Duration": "4 Semesters",
+  "German_Ranking": 93,
+  "Logo": "https://i0.wp.com/howtoabroad.com/wp-content/uploads/2022/03/Hochschule-fur-Wirtschaft-und-Recht-Berlin.png",
+  "Semester_Start": "Winter",
+  "State": "Brandenburg",
+  "Teaching_Language": "English",
+  "Tuition_Fee": "4950",
+  "Tuition_Fee_Per": "Semester",
+  "Type_of_University": "Public University",
+  "Uni-Assist": "Yes",
+  "University_Name": "Berlin School of Economics and Law",
+  "Updated": "2022-06-11 00:00:00.000",
+  "World_Ranking": 2450,
+  "_Daad SIte": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/6995/"
+},
+{
+  "_id": {
+    "$oid": "65b0f6da489f05c61ef4c8df"
+  },
+  "S/no": 38,
+  "Application_Deadline_Summer": {
+    "$date": "2022-12-14T18:30:00.000Z"
+  },
+  "Application_Deadline_Winter": {
+    "$date": "2023-06-14T18:30:00.000Z"
+  },
+  "Application_Link": "https://www.uni-assist.de/",
+  "City": "Koblenz",
+  "Course_Link": "https://www.uni-koblenz-landau.de/en/studies/before-studying/our-degree-programs/masters-degree-programs/ma-biogeoscience",
+  "Course_Name": "BioGeoSciences",
+  "Course_Ranking": "67 (For Biology)",
+  "Course_Sub_Type": "Master of Science (M.Sc)",
+  "Course_Type": "Masters",
+  "Duration": "4 Semesters",
+  "German_Ranking": 79,
+  "Logo": "https://i0.wp.com/howtoabroad.com/wp-content/uploads/2021/09/university-of-koblenz-landau.png",
+  "Semester_Start": "Winter, Summer",
+  "State": "Rhineland-Palatinate",
+  "Teaching_Language": "English",
+  "Tuition_Fee": "None",
+  "Type_of_University": "Public University",
+  "Uni-Assist": "Yes",
+  "University_Name": "University of Koblenz-Landau",
+  "Updated": "2022-06-11 00:00:00.000",
+  "World_Ranking": 1565,
+  "_Daad SIte": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/6911/"
+},
+{
+  "_id": {
+    "$oid": "65b0f6da489f05c61ef4c8e0"
+  },
+  "S/no": 39,
+  "Application_Deadline_Winter": {
+    "$date": "2022-08-14T18:30:00.000Z"
+  },
+  "Application_Link": "https://www.uni-assist.de/",
+  "City": "Potsdam",
+  "Course_Link": "https://www.uni-potsdam.de/en/studium/what-to-study/master/masters-courses-from-a-to-z/bioinformatics",
+  "Course_Name": "Bioinformatics",
+  "Course_Ranking": "46 (For Bioinformatics)",
+  "Course_Sub_Type": "Master",
+  "Course_Type": "Masters",
+  "Duration": "4 Semesters",
+  "German_Ranking": 41,
+  "Logo": "https://i0.wp.com/howtoabroad.com/wp-content/uploads/2021/08/University-of-Potsdam.jpg",
+  "Semester_Start": "Winter",
+  "State": "Brandenburg",
+  "Teaching_Language": "English",
+  "Tuition_Fee": "None",
+  "Type_of_University": "Public University",
+  "Uni-Assist": "Yes",
+  "University_Name": "University of Potsdam",
+  "Updated": "2022-06-11 00:00:00.000",
+  "World_Ranking": 481,
+  "_Daad SIte": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/5373/"
+},
+{
+  "_id": {
+    "$oid": "65b0f6da489f05c61ef4c8e2"
+  },
+  "S/no": 41,
+  "Admission_IELTS_TOFEL": "NO",
+  "Application_Deadline_Summer": {
+    "$date": "2022-01-14T18:30:00.000Z"
+  },
+  "Application_Deadline_Winter": {
+    "$date": "2023-07-14T18:30:00.000Z"
+  },
+  "Application_Link": "https://www.uni-assist.de/",
+  "City": "Kleve",
+  "Course_Link": "https://www.hochschule-rhein-waal.de/en/faculties/life-sciences/degree-programmes/biological-resources-msc",
+  "Course_Name": "Biological Resources",
+  "Course_Ranking": "85 (For Biology)",
+  "Course_Sub_Type": "Master of Science (M.Sc)",
+  "Course_Type": "Masters",
+  "Duration": "3 Semesters",
+  "German_Ranking": 134,
+  "Logo": "https://i0.wp.com/howtoabroad.com/wp-content/uploads/2021/11/Rhine-Waal-University-of-Applied-Sciences.png",
+  "Required_German_Grade (GPA)": "2.5",
+  "Semester_Start": "Winter, Summer",
+  "State": "North Rhine-Westphalia",
+  "Teaching_Language": "English",
+  "Tuition_Fee": "None",
+  "Type_of_University": "Public University",
+  "Uni-Assist": "Yes",
+  "University_Name": "Rhine-Waal University of Applied Sciences",
+  "Updated": "2022-06-11 00:00:00.000",
+  "World_Ranking": 3492,
+  "_Daad SIte": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4619/"
+},
+{
+  "_id": {
+    "$oid": "65b0f6da489f05c61ef4c8e3"
+  },
+  "S/no": 42,
+  "Application_Deadline_Summer": {
+    "$date": "2022-01-14T18:30:00.000Z"
+  },
+  "Application_Deadline_Winter": {
+    "$date": "2023-06-14T18:30:00.000Z"
+  },
+  "Application_Link": "https://www.uni-assist.de/",
+  "City": "Konstanz",
+  "Course_Link": "https://www.uni-konstanz.de/en/study/before-you-study/study-programmes/study-programmes-a-z/biological-sciences-msc/",
+  "Course_Name": "Biological Sciences",
+  "Course_Ranking": "31 (For Biology)",
+  "Course_Sub_Type": "Master of Science (M.Sc)",
+  "Course_Type": "Masters",
+  "Duration": "4 Semesters",
+  "German_Ranking": 38,
+  "Logo": "https://i0.wp.com/howtoabroad.com/wp-content/uploads/2021/04/University-of-Konstanz.jpg",
+  "Semester_Start": "Winter, Summer",
+  "State": "Baden-Wurttemberg",
+  "Teaching_Language": "English",
+  "Tuition_Fee": "Varied",
+  "Type_of_University": "Public University",
+  "Uni-Assist": "Yes",
+  "University_Name": "University of Konstanz",
+  "Updated": "2022-06-11 00:00:00.000",
+  "World_Ranking": 435,
+  "_Daad SIte": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4745/"
+},
+{
+  "_id": {
+    "$oid": "65b0f6da489f05c61ef4c8e4"
+  },
+  "S/no": 43,
+  "Admission_IELTS_TOFEL": "NO",
+  "Application_Deadline_Summer": {
+    "$date": "2023-01-14T18:30:00.000Z"
+  },
+  "Application_Deadline_Winter": {
+    "$date": "2023-07-14T18:30:00.000Z"
+  },
+  "Application_Link": "https://www.uni-assist.de/",
+  "City": "Garching",
+  "Course_Link": "https://www.tum.de/studium/studienangebot/detail/bioinformatik-master-of-science-msc",
+  "Course_Name": "Bioinformatics",
+  "Course_Sub_Type": "Master of Science (M.Sc)",
+  "Course_Type": "Masters",
+  "Duration": "4 Semesters",
+  "German_Ranking": 3,
+  "Language_Requirement": "IELTS- 6.5/TOEFL-iBT- 88",
+  "Logo": "https://i0.wp.com/howtoabroad.com/wp-content/uploads/2021/03/TUM.png",
+  "Semester_Start": "Winter, Summer",
+  "State": "Bavaria",
+  "Teaching_Language": "English",
+  "Tuition_Fee": "None",
+  "Type_of_University": "Public University",
+  "Uni-Assist": "Yes",
+  "University_Name": "TU Munich",
+  "Updated": "2023-03-30 00:00:00.000",
+  "World_Ranking": 86,
+  "_Daad SIte": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4082/"
+},
+{
+  "_id": {
+    "$oid": "65b0f6da489f05c61ef4c8e5"
+  },
+  "S/no": 44,
+  "Application_Deadline_Summer": {
+    "$date": "2022-01-14T18:30:00.000Z"
+  },
+  "Application_Deadline_Winter": {
+    "$date": "2023-07-14T18:30:00.000Z"
+  },
+  "Application_Link": "https://www.uni-assist.de/",
+  "City": "Hamburg",
+  "Course_Link": "https://www.haw-hamburg.de/en/study/degree-courses-a-z/study-courses-in-detail/course/courses/show/biomedical-engineering/Studieninteressierte/",
+  "Course_Name": "Biomedical Engineering (MSc)",
+  "Course_Ranking": "16 (For Biomedical Engineering)",
+  "Course_Sub_Type": "Master",
+  "Course_Type": "Masters",
+  "Duration": "3 Semesters",
+  "German_Ranking": 82,
+  "Logo": "https://i0.wp.com/howtoabroad.com/wp-content/uploads/2021/11/Hamburg-University-of-Applied-Sciences.jpg",
+  "Semester_Start": "Winter, Summer",
+  "State": "State Examination",
+  "Teaching_Language": "English",
+  "Tuition_Fee": "None",
+  "Type_of_University": "Public University",
+  "Uni-Assist": "Yes",
+  "University_Name": "Hamburg University of Applied Sciences",
+  "Updated": "2022-06-11 00:00:00.000",
+  "World_Ranking": 1748,
+  "_Daad SIte": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4025/"
+},
+{
+  "_id": {
+    "$oid": "65b0f6da489f05c61ef4c8e6"
+  },
+  "S/no": 45,
+  "Application_Deadline_Winter": {
+    "$date": "2023-04-30T18:30:00.000Z"
+  },
+  "Application_Link": "https://www.uni-assist.de/",
+  "City": "L beck",
+  "Course_Link": "https://www.bme-master.com/biomedical-engineering/master-program.html",
+  "Course_Name": "Biomedical Engineering",
+  "Course_Ranking": "37 (For Biomedical Engineering)",
+  "Course_Sub_Type": "Master of Science (M.Sc)",
+  "Course_Type": "Masters",
+  "Duration": "4 Semesters",
+  "German_Ranking": 168,
+  "Logo": "https://i0.wp.com/howtoabroad.com/wp-content/uploads/2021/04/Lubeck-University-of-Applied-Sciences.png",
+  "Semester_Start": "Winter",
+  "State": "Schleswig-Holstein",
+  "Teaching_Language": "English",
+  "Tuition_Fee": "None",
+  "Type_of_University": "Public University",
+  "Uni-Assist": "Yes",
+  "University_Name": "Technische Hochschule Lubeck",
+  "Updated": "2023-03-29 00:00:00.000",
+  "World_Ranking": 5816,
+  "_Daad SIte": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4162/"
+},
+{
+  "_id": {
+    "$oid": "65b0f6da489f05c61ef4c8e7"
+  },
+  "S/no": 46,
+  "Admission_IELTS_TOFEL": "NO",
+  "Application_Link": "https://www.uni-assist.de/",
+  "City": "Kleve",
+  "Course_Link": "https://www.hochschule-rhein-waal.de/en/faculties/technology-and-bionics/degree-programmes/bionicsbiomimetics-msc",
+  "Course_Name": "Bionics MSc",
+  "Course_Ranking": "85 (For Biology)",
+  "Course_Sub_Type": "Master of Science (M.Sc)",
+  "Course_Type": "Masters",
+  "Duration": "3 Semesters",
+  "GRE": "YES",
+  "German_Ranking": 134,
+  "Logo": "https://i0.wp.com/howtoabroad.com/wp-content/uploads/2021/11/Rhine-Waal-University-of-Applied-Sciences.png",
+  "Required_German_Grade (GPA)": "2.5",
+  "Semester_Start": "Winter, Summer",
+  "State": "North Rhine-Westphalia",
+  "Teaching_Language": "English",
+  "Tuition_Fee": "None",
+  "Type_of_University": "Public University",
+  "Uni-Assist": "Yes",
+  "University_Name": "Rhine-Waal University of Applied Sciences",
+  "Updated": "2022-06-11 00:00:00.000",
+  "World_Ranking": 3492,
+  "_Daad SIte": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4224/"
+},
+{
+  "_id": {
+    "$oid": "65b0f6da489f05c61ef4c8e8"
+  },
+  "S/no": 47,
+  "Admission_IELTS_TOFEL": "YES",
+  "Application_Deadline_Summer": {
+    "$date": "2022-01-14T18:30:00.000Z"
+  },
+  "Application_Deadline_Winter": {
+    "$date": "2023-07-14T18:30:00.000Z"
+  },
+  "Application_Link": "https://www.uni-assist.de/",
+  "City": "Cottbus",
+  "Course_Link": "https://www.b-tu.de/en/biotechnology-ms",
+  "Course_Name": "Biotechnology",
+  "Course_Ranking": "69 (For Biology)",
+  "Course_Sub_Type": "Master",
+  "Course_Type": "Masters",
+  "Duration": "3 Semesters",
+  "German_Ranking": 78,
+  "Language_Requirement": "IELTS 6.0/ TOEFL(IBT 79 /PBT /CBT)/OTHERS",
+  "Logo": "https://i0.wp.com/howtoabroad.com/wp-content/uploads/2021/09/university-of-koblenz-landau.png",
+  "Semester_Start": "Winter, Summer",
+  "State": "Brandenburg",
+  "Teaching_Language": "English",
+  "Tuition_Fee": "None",
+  "Type_of_University": "Public University",
+  "Uni-Assist": "Yes",
+  "University_Name": "Brandenburg University of Technology Cottbus-Senftenberg",
+  "Updated": "2022-06-11 00:00:00.000",
+  "World_Ranking": 1525,
+  "_Daad SIte": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3888/"
+},
+{
+  "_id": {
+    "$oid": "65b0f6da489f05c61ef4c8ea"
+  },
+  "S/no": 49,
+  "Admission_IELTS_TOFEL": "NO",
+  "Application_Deadline_Summer": {
+    "$date": "2022-01-14T18:30:00.000Z"
+  },
+  "Application_Deadline_Winter": {
+    "$date": "2023-07-14T18:30:00.000Z"
+  },
+  "Application_Link": "https://www.uni-assist.de/",
+  "City": "Bielefeld",
+  "Course_Link": "https://ekvv.uni-bielefeld.de/sinfo/publ/master-as/anglistik",
+  "Course_Name": "British and American Studies",
+  "Course_Sub_Type": "Master of Arts (MA)",
+  "Course_Type": "Masters",
+  "Duration": "4 Semesters",
+  "German_Ranking": 39,
+  "Language_Requirement": "TOEFL(pBT 580,iBT 93)",
+  "Logo": "https://i0.wp.com/howtoabroad.com/wp-content/uploads/2021/04/BBielefeld.png",
+  "Required_German_Grade (GPA)": "2.5",
+  "Semester_Start": "Winter, Summer",
+  "State": "North Rhine-Westphalia",
+  "Teaching_Language": "English",
+  "Tuition_Fee": "None",
+  "Type_of_University": "Public University",
+  "Uni-Assist": "Yes",
+  "University_Name": "Bielefeld University",
+  "Updated": "2022-06-11 00:00:00.000",
+  "World_Ranking": 436,
+  "_Daad SIte": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/6094/"
+},
+{
+  "_id": {
+    "$oid": "65b0f6da489f05c61ef4c8eb"
+  },
+  "S/no": 50,
+  "Application_Deadline_Winter": {
+    "$date": "2022-06-14T18:30:00.000Z"
+  },
+  "Application_Link": "https://www.uni-assist.de/",
+  "City": "Eichst tt",
+  "Course_Link": "https://www.ku.de/studienangebot/bwl-international-msc",
+  "Course_Name": "Business Administration - Specialisation in International Business Administration",
+  "Course_Sub_Type": "Master",
+  "Course_Type": "Masters",
+  "Duration": "4 Semesters",
+  "German_Ranking": 89,
+  "Logo": "https://i0.wp.com/howtoabroad.com/wp-content/uploads/2021/07/Catholic-University-Eichstatt-Ingolstadt-KU-logo-350x250-1.png",
+  "Semester_Start": "Winter",
+  "State": "Bavaria",
+  "Teaching_Language": "English",
+  "Tuition_Fee": "None",
+  "Type_of_University": "Private University",
+  "Uni-Assist": "Yes",
+  "University_Name": "Catholic University in Eichst tt - Ingolstadt",
+  "Updated": "2022-06-11 00:00:00.000",
+  "World_Ranking": 2192,
+  "_Daad SIte": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/7047/"
+},
+{
+  "_id": {
+    "$oid": "65b0f6da489f05c61ef4c8ec"
+  },
+  "S/no": 51,
+  "Admission_IELTS_TOFEL": "YES",
+  "Application_Deadline_Winter": {
+    "$date": "2022-06-14T18:30:00.000Z"
+  },
+  "Application_Link": "https://www.uni-assist.de/",
+  "City": "Eichst tt",
+  "Course_Link": "https://www.ku.de/en/study-offer/business-administration-entre-msc",
+  "Course_Name": "Business Administration, Specialisation in Entrepreneurship & Social Innovation",
+  "Course_Sub_Type": "Master",
+  "Course_Type": "Masters",
+  "Duration": "4 Semesters",
+  "German_Ranking": 89,
+  "Language_Requirement": "TOEFL 78/Others",
+  "Logo": "https://i0.wp.com/howtoabroad.com/wp-content/uploads/2021/07/Catholic-University-Eichstatt-Ingolstadt-KU-logo-350x250-1.png",
+  "Semester_Start": "Winter, Summer",
+  "State": "Bavaria",
+  "Teaching_Language": "English",
+  "Tuition_Fee": "None",
+  "Type_of_University": "Private University",
+  "Uni-Assist": "Yes",
+  "University_Name": "Catholic University in Eichst tt - Ingolstadt",
+  "Updated": "2022-06-11 00:00:00.000",
+  "World_Ranking": 2192,
+  "_Daad SIte": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/7005/"
+},
+{
+  "_id": {
+    "$oid": "65b0f6da489f05c61ef4c8ed"
+  },
+  "S/no": 52,
+  "Application_Deadline_Winter": {
+    "$date": "2022-06-14T18:30:00.000Z"
+  },
+  "Application_Link": "https://www.uni-assist.de/",
+  "City": "Eichst tt",
+  "Course_Link": "https://www.ku.de/studienangebot/business-psychology-msc",
+  "Course_Name": "Business and Psychology",
+  "Course_Ranking": "76 (For Psychology)",
+  "Course_Sub_Type": "Master",
+  "Course_Type": "Masters",
+  "Duration": "4 Semesters",
+  "German_Ranking": 89,
+  "Logo": "https://i0.wp.com/howtoabroad.com/wp-content/uploads/2021/07/Catholic-University-Eichstatt-Ingolstadt-KU-logo-350x250-1.png",
+  "Semester_Start": "Winter",
+  "State": "Bavaria",
+  "Teaching_Language": "English",
+  "Tuition_Fee": "None",
+  "Type_of_University": "Private University",
+  "Uni-Assist": "Yes",
+  "University_Name": "Catholic University in Eichst tt - Ingolstadt",
+  "Updated": "2022-06-11 00:00:00.000",
+  "World_Ranking": 2192,
+  "_Daad SIte": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/7004/"
+},
+{
+  "_id": {
+    "$oid": "65b0f6da489f05c61ef4c8f0"
+  },
+  "S/no": 55,
+  "Application_Deadline_Summer": {
+    "$date": "2001-09-29T18:30:00.000Z"
+  },
+  "Application_Deadline_Winter": {
+    "$date": "2022-04-29T18:30:00.000Z"
+  },
+  "Application_Link": "https://www.uni-assist.de/",
+  "City": "Emden",
+  "Course_Link": "https://www.hs-emden-leer.de/en/current-students/faculties/technology/study-programs/business-intelligence-and-data-analytics",
+  "Course_Name": "Business Intelligence and Data Analytics",
+  "Course_Sub_Type": "Master of Engineering (M.Eng)",
+  "Course_Type": "Masters",
+  "Duration": "3 Semesters",
+  "German_Ranking": 160,
+  "Logo": "https://i0.wp.com/howtoabroad.com/wp-content/uploads/2021/08/Emden-logo.jpg",
+  "Semester_Start": "Winter, Summer",
+  "State": "Lower Saxony",
+  "Teaching_Language": "English",
+  "Tuition_Fee": "5980",
+  "Tuition_Fee_Per": "Semester",
+  "Type_of_University": "Public University",
+  "Uni-Assist": "Yes",
+  "University_Name": "University of Applied Sciences Emden/Leer",
+  "Updated": "2023-03-10 00:00:00.000",
+  "World_Ranking": 4674,
+  "_Daad SIte": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/7054/"
+},
+{
+  "_id": {
+    "$oid": "65b0f6da489f05c61ef4c8f1"
+  },
+  "S/no": 56,
+  "Application_Deadline_Winter": {
+    "$date": "2023-05-14T18:30:00.000Z"
+  },
+  "Application_Link": "https://www.uni-assist.de/",
+  "City": "Berlin",
+  "Course_Link": "https://www.hwr-berlin.de/studium/studiengaenge/detail/13-business-intelligence-and-process-management/",
+  "Course_Name": "Business Intelligence and Process Management",
+  "Course_Sub_Type": "Master of Science (M.Sc)",
+  "Course_Type": "Masters",
+  "Duration": "3 Semesters",
+  "German_Ranking": 93,
+  "Logo": "https://i0.wp.com/howtoabroad.com/wp-content/uploads/2022/03/Hochschule-fur-Wirtschaft-und-Recht-Berlin.png",
+  "Semester_Start": "Winter",
+  "State": "Brandenburg",
+  "Teaching_Language": "English",
+  "Tuition_Fee": "None",
+  "Type_of_University": "Public University",
+  "Uni-Assist": "Yes",
+  "University_Name": "Berlin School of Economics and Law",
+  "Updated": "2023-03-28 00:00:00.000",
+  "World_Ranking": 2450,
+  "_Daad SIte": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4529/"
+},
+{
+  "_id": {
+    "$oid": "65b0f6da489f05c61ef4c8f3"
+  },
+  "S/no": 58,
+  "Application_Deadline_Summer": {
+    "$date": "2022-01-14T18:30:00.000Z"
+  },
+  "Application_Deadline_Winter": {
+    "$date": "2023-07-14T18:30:00.000Z"
+  },
+  "Application_Link": "https://www.uni-assist.de/",
+  "City": "Magdeburg",
+  "Course_Link": "https://www.uni-magdeburg.de/unimagdeburg/en/Study/Study+Programmes/Master/Chemical+and+Energy+Engineering-p-17622.html",
+  "Course_Name": "Chemical and Energy Engineering",
+  "Course_Sub_Type": "Master",
+  "Course_Type": "Masters",
+  "Duration": "4 Semesters",
+  "German_Ranking": 45,
+  "Logo": "https://i0.wp.com/howtoabroad.com/wp-content/uploads/2021/08/qcrxkdzqpmwr5xbg6u1r.jpg",
+  "Semester_Start": "Winter, Summer",
+  "State": "Saxony-Anhalt",
+  "Teaching_Language": "English",
+  "Tuition_Fee": "None",
+  "Type_of_University": "Public University",
+  "Uni-Assist": "Yes",
+  "University_Name": "Otto von Guericke University Magdeburg",
+  "Updated": "2022-06-11 00:00:00.000",
+  "World_Ranking": 615,
+  "_Daad SIte": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3764/"
+},
+{
+  "_id": {
+    "$oid": "65b0f6da489f05c61ef4c8f4"
+  },
+  "S/no": 59,
+  "Application_Deadline_Summer": {
+    "$date": "2022-01-14T18:30:00.000Z"
+  },
+  "Application_Deadline_Winter": {
+    "$date": "2023-06-14T18:30:00.000Z"
+  },
+  "Application_Link": "https://www.uni-assist.de/",
+  "City": "Konstanz",
+  "Course_Link": "https://www.uni-konstanz.de/en/study/before-you-study/study-programmes/study-programmes-a-z/chemie-msc/",
+  "Course_Name": "Chemistry",
+  "Course_Ranking": "30 (For Chemistry)",
+  "Course_Sub_Type": "Master of Science (M.Sc)",
+  "Course_Type": "Masters",
+  "Duration": "4 Semesters",
+  "German_Ranking": 38,
+  "Logo": "https://i0.wp.com/howtoabroad.com/wp-content/uploads/2021/04/University-of-Konstanz.jpg",
+  "Semester_Start": "Winter, Summer",
+  "State": "Baden-Wurttemberg",
+  "Teaching_Language": "English",
+  "Tuition_Fee": "Varied",
+  "Type_of_University": "Public University",
+  "Uni-Assist": "Yes",
+  "University_Name": "University of Konstanz",
+  "Updated": "2022-06-11 00:00:00.000",
+  "World_Ranking": 435,
+  "_Daad SIte": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/6350/"
+},
+{
+  "_id": {
+    "$oid": "65b0f6da489f05c61ef4c8f5"
+  },
+  "S/no": 60,
+  "Application_Deadline_Summer": {
+    "$date": "2023-11-14T18:30:00.000Z"
+  },
+  "Application_Deadline_Winter": {
+    "$date": "2023-05-14T18:30:00.000Z"
+  },
+  "Application_Link": "https://www.uni-assist.de/",
+  "City": "Ulm",
+  "Course_Link": "https://www.uni-ulm.de/studium/studieren-an-der-uni-ulm/studiengaenge/studiengangsinfo/course/chemistry-master/",
+  "Course_Name": "Chemistry (MSc)",
+  "Course_Ranking": "27 (For Chemistry)",
+  "Course_Sub_Type": "Master of Science (M.Sc)",
+  "Course_Type": "Masters",
+  "Duration": "4 Semesters",
+  "German_Ranking": 36,
+  "Logo": "https://i0.wp.com/howtoabroad.com/wp-content/uploads/2021/09/uni-logo.gif",
+  "Semester_Start": "Winter, Summer",
+  "State": "Baden-Wurttemberg",
+  "Teaching_Language": "English",
+  "Tuition_Fee": "Varied",
+  "Type_of_University": "Public University",
+  "Uni-Assist": "Yes",
+  "University_Name": "Ulm University",
+  "Updated": "2023-04-05 00:00:00.000",
+  "World_Ranking": 406,
+  "_Daad SIte": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/6938/"
+},
+{
+  "_id": {
+    "$oid": "65b0f6da489f05c61ef4c8f6"
+  },
+  "S/no": 61,
+  "Application_Link": "https://www.uni-assist.de/",
+  "City": "Berlin",
+  "Course_Link": "https://www.fu-berlin.de/en/studium/studienangebot/master/china_europe_executive_master_business_marketing/index.html",
+  "Course_Name": "China-Europe Executive Master of Business Marketing",
+  "Course_Ranking": "18 (For Marketing)",
+  "Course_Sub_Type": "Master of Business Marketing (MBM)",
+  "Course_Type": "Masters",
+  "Duration": "3 Semesters",
+  "German_Ranking": 8,
+  "Language_Requirement": "B2",
+  "Logo": "https://i0.wp.com/howtoabroad.com/wp-content/uploads/2021/09/10474234_1600356450218742_3677472253407356161_n.png",
+  "Semester_Start": "Summer",
+  "State": "Brandenburg",
+  "Teaching_Language": "English",
+  "Tuition_Fee": "7333",
+  "Tuition_Fee_Per": "Semester",
+  "Type_of_University": "Public University",
+  "Uni-Assist": "Yes",
+  "University_Name": "Free University Berlin",
+  "Updated": "2022-08-21 00:00:00.000",
+  "World_Ranking": 152,
+  "_Daad SIte": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/7145/"
+},
+{
+  "_id": {
+    "$oid": "65b0f6da489f05c61ef4c8f7"
+  },
+  "S/no": 62,
+  "Application_Link": "https://www.uni-assist.de/",
+  "City": "Berlin",
+  "Course_Link": "https://www.berlin-professional-school.de/en/master/full-time-studies/master-chinese-european-economics-and-business-studies/",
+  "Course_Name": "Chinese-European Economics and Business Studies",
+  "Course_Sub_Type": "Master",
+  "Course_Type": "Masters",
+  "Duration": "4 Semesters",
+  "German_Ranking": 93,
+  "Logo": "https://i0.wp.com/howtoabroad.com/wp-content/uploads/2022/03/Hochschule-fur-Wirtschaft-und-Recht-Berlin.png",
+  "Semester_Start": "Winter",
+  "State": "Brandenburg",
+  "Teaching_Language": "English",
+  "Tuition_Fee": "3738",
+  "Tuition_Fee_Per": "Semester",
+  "Type_of_University": "Public University",
+  "Uni-Assist": "Yes",
+  "University_Name": "Berlin School of Economics and Law",
+  "Updated": "2022-06-11 00:00:00.000",
+  "World_Ranking": 2450,
+  "_Daad SIte": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3608/"
+},
+{
+  "_id": {
+    "$oid": "65b0f6da489f05c61ef4c8f8"
+  },
+  "S/no": 63,
+  "Application_Deadline_Winter": {
+    "$date": "2022-06-14T18:30:00.000Z"
+  },
+  "Application_Link": "https://www.uni-assist.de/",
+  "City": "Berlin",
+  "Course_Link": "https://www.tu.berlin/en/studying/study-programs/all-programs-offered/study-course/civil-systems-engineering-m-sc/",
+  "Course_Name": "Civil Systems Engineering",
+  "Course_Ranking": "10  ( civil engineering ),  4 (For Systems Engineering)",
+  "Course_Sub_Type": "Master of Science (M.Sc)",
+  "Course_Type": "Masters",
+  "Duration": "4 Semesters",
+  "German_Ranking": 17,
+  "Language_Requirement": "TOEFL-iBT- 95/IELTS- 7",
+  "Logo": "https://i0.wp.com/howtoabroad.com/wp-content/uploads/2021/03/TU-Berlin.png",
+  "Semester_Start": "Winter",
+  "State": "Brandenburg",
+  "Teaching_Language": "English",
+  "Tuition_Fee": "None",
+  "Type_of_University": "Public University",
+  "Uni-Assist": "Yes",
+  "University_Name": "TU Berlin",
+  "Updated": "2022-07-04 00:00:00.000",
+  "World_Ranking": 210,
+  "_Daad SIte": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/6957/"
+},
+{
+  "_id": {
+    "$oid": "65b0f6da489f05c61ef4c8fa"
+  },
+  "S/no": 65,
+  "Admission_IELTS_TOFEL": "YES",
+  "Application_Deadline_Summer": {
+    "$date": "2022-01-14T18:30:00.000Z"
+  },
+  "Application_Deadline_Winter": {
+    "$date": "2023-07-14T18:30:00.000Z"
+  },
+  "Application_Link": "https://www.uni-assist.de/",
+  "City": "Osnabr ck",
+  "Course_Link": "https://www.uni-osnabrueck.de/studieninteressierte/studiengaenge-a-z/cognitive-science-master-of-science/",
+  "Course_Name": "Cognitive Science",
+  "Course_Ranking": "36 (For Cognitive Science)",
+  "Course_Sub_Type": "Master of Science (M.Sc)",
+  "Course_Type": "Masters",
+  "Duration": "4 Semesters",
+  "German_Ranking": 56,
+  "Language_Requirement": "IELTS-5.0",
+  "Logo": "https://i0.wp.com/howtoabroad.com/wp-content/uploads/2021/09/Osnabruck-University-1.jpg",
+  "Semester_Start": "Winter, Summer",
+  "State": "Lower Saxony",
+  "Teaching_Language": "English",
+  "Tuition_Fee": "None",
+  "Type_of_University": "Public University",
+  "Uni-Assist": "Yes",
+  "University_Name": "Osnabr ck University",
+  "Updated": "2022-06-11 00:00:00.000",
+  "World_Ranking": 782,
+  "_Daad SIte": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3614/"
+},
+{
+  "_id": {
+    "$oid": "65b0f6da489f05c61ef4c8fb"
+  },
+  "S/no": 66,
+  "Admission_IELTS_TOFEL": "YES",
+  "Application_Deadline_Winter": {
+    "$date": "2022-05-31T18:30:00.000Z"
+  },
+  "Application_Link": "https://www.uni-assist.de/",
+  "City": "Potsdam",
+  "Course_Link": "https://www.uni-potsdam.de/en/studium/what-to-study/master/masters-courses-from-a-to-z/cognitive-systems",
+  "Course_Name": "Cognitive Systems: Language, Learning, and Reasoning",
+  "Course_Ranking": "21 (For Cognitive Science)",
+  "Course_Sub_Type": "Master",
+  "Course_Type": "Masters",
+  "Duration": "4 Semesters",
+  "German_Ranking": 41,
+  "Language_Requirement": "IELTS 7/TOEFL(iBT 95)/Others",
+  "Logo": "https://i0.wp.com/howtoabroad.com/wp-content/uploads/2021/08/University-of-Potsdam.jpg",
+  "Semester_Start": "Winter",
+  "State": "Brandenburg",
+  "Teaching_Language": "English",
+  "Tuition_Fee": "None",
+  "Type_of_University": "Public University",
+  "Uni-Assist": "Yes",
+  "University_Name": "University of Potsdam",
+  "Updated": "2022-06-11 00:00:00.000",
+  "World_Ranking": 481,
+  "_Daad SIte": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/6262/"
+},
+{
+  "_id": {
+    "$oid": "65b0f6da489f05c61ef4c8fc"
+  },
+  "S/no": 67,
+  "Admission_IELTS_TOFEL": "YES",
+  "Application_Deadline_Summer": {
+    "$date": "2022-10-30T18:30:00.000Z"
+  },
+  "Application_Deadline_Winter": {
+    "$date": "2023-03-30T18:30:00.000Z"
+  },
+  "Application_Link": "https://www.uni-assist.de/",
+  "City": "Cologne",
+  "Course_Link": "https://www.th-koeln.de/en/academics/communication-systems-and-networks-master_6840.php",
+  "Course_Name": "Communication Systems and Networks (Master of Science)",
+  "Course_Sub_Type": "Master of Science (M.Sc)",
+  "Course_Type": "Masters",
+  "Duration": "3 Semesters",
+  "German_Ranking": 88,
+  "Language_Requirement": "IELTS-5",
+  "Logo": "https://i0.wp.com/howtoabroad.com/wp-content/uploads/2021/04/TH-Koln.jpg",
+  "Required_German_Grade (GPA)": "2.3",
+  "Semester_Start": "Winter, Summer",
+  "State": "North Rhine-Westphalia",
+  "Teaching_Language": "English",
+  "Tuition_Fee": "None",
+  "Type_of_University": "Public University",
+  "Uni-Assist": "Yes",
+  "University_Name": "TH Cologne   University of Applied Sciences",
+  "Updated": "2023-03-02 00:00:00.000",
+  "World_Ranking": 2142,
+  "_Daad SIte": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4354/"
+},
+{
+  "_id": {
+    "$oid": "65b0f6da489f05c61ef4c8fd"
+  },
+  "S/no": 68,
+  "Admission_IELTS_TOFEL": "NO",
+  "Application_Deadline_Winter": {
+    "$date": "2022-04-14T18:30:00.000Z"
+  },
+  "Application_Link": "https://www.uni-assist.de/",
+  "City": "Freiberg",
+  "Course_Link": "https://tu-freiberg.de/international-masters-program-in-computational-materials-science",
+  "Course_Name": "Computational Materials Science (CMS)",
+  "Course_Ranking": "36 (For Materials Science)",
+  "Course_Sub_Type": "Master",
+  "Course_Type": "Masters",
+  "Duration": "4 Semesters",
+  "German_Ranking": 62,
+  "Language_Requirement": "IELTS 6.5/ TOEFL(IBT 90/PBT/CBT)/OTHERS",
+  "Logo": "https://i0.wp.com/howtoabroad.com/wp-content/uploads/2021/04/logo_bergakademie-freiberg-technische-universitaet.jpg",
+  "Semester_Start": "Winter",
+  "State": "Saxony",
+  "Teaching_Language": "English",
+  "Tuition_Fee": "None",
+  "Type_of_University": "Public University",
+  "Uni-Assist": "Yes",
+  "University_Name": "Freiberg University of Mining and Technology (TU Bergakademie Freiberg)",
+  "Updated": "2022-06-11 00:00:00.000",
+  "World_Ranking": 1147,
+  "_Daad SIte": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4288/"
+},
+{
+  "_id": {
+    "$oid": "65b0f6da489f05c61ef4c8fe"
+  },
+  "S/no": 69,
+  "Admission_IELTS_TOFEL": "NO",
+  "Application_Deadline_Winter": {
+    "$date": "2023-05-30T18:30:00.000Z"
+  },
+  "Application_Link": "https://www.uni-assist.de/",
+  "City": "Munich",
+  "Course_Link": "https://www.tum.de/studium/studienangebot/detail/computational-mechanics-master-of-science-msc",
+  "Course_Name": "Computational Mechanics",
+  "Course_Sub_Type": "Master of Science (M.Sc)",
+  "Course_Type": "Masters",
+  "Duration": "4 Semesters",
+  "German_Ranking": 3,
+  "Language_Requirement": "IELTS- 6.5/TOEFL-iBT- 88",
+  "Logo": "https://i0.wp.com/howtoabroad.com/wp-content/uploads/2021/03/TUM.png",
+  "Semester_Start": "Winter",
+  "State": "Bavaria",
+  "Teaching_Language": "English",
+  "Tuition_Fee": "None",
+  "Type_of_University": "Public University",
+  "Uni-Assist": "Yes",
+  "University_Name": "TU Munich",
+  "Updated": "2023-03-30 00:00:00.000",
+  "World_Ranking": 86,
+  "_Daad SIte": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/3595/"
+},
+{
+  "_id": {
+    "$oid": "65b0f6da489f05c61ef4c8ff"
+  },
+  "S/no": 70,
+  "Application_Deadline_Summer": {
+    "$date": "2023-11-29T18:30:00.000Z"
+  },
+  "Application_Deadline_Winter": {
+    "$date": "2023-05-30T18:30:00.000Z"
+  },
+  "Application_Link": "https://www.uni-assist.de/",
+  "City": "Hanover",
+  "Course_Link": "https://www.uni-hannover.de/en/studium/studienangebot/info/studiengang/detail/computational-methods-in-engineering/",
+  "Course_Name": "Computational Methods in Engineering (CME)",
+  "Course_Sub_Type": "Master of Science (M.Sc)",
+  "Course_Type": "Masters",
+  "Duration": "4 Semesters",
+  "German_Ranking": 35,
+  "Logo": "https://i0.wp.com/howtoabroad.com/wp-content/uploads/2021/04/luh.png",
+  "Semester_Start": "Winter, Summer",
+  "State": "Lower Saxony",
+  "Teaching_Language": "English, German",
+  "Tuition_Fee": "None",
+  "Type_of_University": "Public University",
+  "Uni-Assist": "Yes",
+  "University_Name": "Leibniz University Hannover",
+  "Updated": "2023-04-05 00:00:00.000",
+  "World_Ranking": 399,
+  "_Daad SIte": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/5300/"
+},
+{
+  "_id": {
+    "$oid": "65b0f6da489f05c61ef4c900"
+  },
+  "S/no": 71,
+  "Application_Deadline_Summer": {
+    "$date": "2023-11-29T18:30:00.000Z"
+  },
+  "Application_Deadline_Winter": {
+    "$date": "2023-05-30T18:30:00.000Z"
+  },
+  "Application_Link": "https://www.uni-assist.de/",
+  "City": "Rostock",
+  "Course_Link": "https://www.uni-rostock.de/computational-sciences-and-engineering/",
+  "Course_Name": "Computational Science and Engineering (CSE)",
+  "Course_Sub_Type": "Master of Engineering (M.Eng)",
+  "Course_Type": "Masters",
+  "Duration": "4 Semesters",
+  "German_Ranking": 37,
+  "Logo": "https://i0.wp.com/howtoabroad.com/wp-content/uploads/2021/04/University-of-Rostock.jpg",
+  "Semester_Start": "Winter, Summer",
+  "State": "Mecklenburg-Vorpommern",
+  "Teaching_Language": "English",
+  "Tuition_Fee": "None",
+  "Type_of_University": "Public University",
+  "Uni-Assist": "Yes",
+  "University_Name": "University of Rostock",
+  "Updated": "2023-04-05 00:00:00.000",
+  "World_Ranking": 436,
+  "_Daad SIte": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4593/"
+},
+{
+  "_id": {
+    "$oid": "65b0f6da489f05c61ef4c901"
+  },
+  "S/no": 72,
+  "Application_Deadline_Summer": {
+    "$date": "2023-12-14T18:30:00.000Z"
+  },
+  "Application_Deadline_Winter": {
+    "$date": "2023-05-14T18:30:00.000Z"
+  },
+  "Application_Link": "https://www.uni-assist.de/",
+  "City": "Konstanz",
+  "Course_Link": "https://www.uni-konstanz.de/en/study/before-you-study/study-programmes/study-programmes-a-z/computer-and-information-science-msc/",
+  "Course_Name": "Computer and Information Science",
+  "Course_Ranking": "16 (For Library and Information science)",
+  "Course_Sub_Type": "Master of Science (M.Sc)",
+  "Course_Type": "Masters",
+  "Duration": "4 Semesters",
+  "German_Ranking": 38,
+  "Logo": "https://i0.wp.com/howtoabroad.com/wp-content/uploads/2021/04/University-of-Konstanz.jpg",
+  "Semester_Start": "Winter, Summer",
+  "State": "Baden-Wurttemberg",
+  "Teaching_Language": "English",
+  "Tuition_Fee": "Varied",
+  "Type_of_University": "Public University",
+  "Uni-Assist": "Yes",
+  "University_Name": "University of Konstanz",
+  "Updated": "2023-03-27 00:00:00.000",
+  "World_Ranking": 435,
+  "_Daad SIte": "https://www2.daad.de/deutschland/studienangebote/international-programmes/en/detail/4249/"
+}]
