@@ -1,0 +1,18 @@
+.card{
+    display: flex;
+    flex-direction: row;
+    width: 25%;
+}
+.University{
+    margin-right: 10px;
+}
+.details{
+    position: relative;
+    margin: auto;
+}
+.card-img-top{
+    width: 50%;
+}
+.list-group-flush {
+    width: 15rem;
+}

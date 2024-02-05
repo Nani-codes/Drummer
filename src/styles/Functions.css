@@ -1,0 +1,61 @@
+.cards {
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: stretch;
+    flex-wrap: wrap;
+    align-content: center;
+  }
+  
+  .card {
+    background-color: #f8f9fa; /* Light gray background */
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Soft shadow effect */
+    margin: 10px;
+    padding: 20px;
+    width: 300px; /* Adjust the width as needed */
+  }
+  
+  .card:hover {
+    transform: translateY(-5px); /* Lift the card on hover */
+  }
+  
+  .App-logo {
+    height: 40vmin;
+    pointer-events: none;
+  }
+  
+  .sort-button {
+    margin-top: 20px;
+  }
+  
+  .sort-button button {
+    margin-right: 10px;
+    background-color: #007bff; /* Blue background */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+  }
+  
+  .sort-button button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+  }
+
+  .filters{
+    margin: 20px;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+  }
+  .form-select{
+    width: 500px;
+  }
+  .d-flex{
+    margin: 20px;
+  }
